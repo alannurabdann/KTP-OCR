@@ -2,6 +2,8 @@
 
 Extract data from file KTP using Google Cloud Vision (GCV).
 
+![alt text](https://github.com/alannurabdann/KTP-OCR/blob/master/example.jpg?raw=true)
+
 ### Config File
 Please fill in the configuration in file `kyc_config.py`
 `gcv_api_key_path`: path location of the GCV API Key. To get an API, check https://cloud.google.com/vision/docs/setup
